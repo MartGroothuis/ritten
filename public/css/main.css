@@ -1,0 +1,9 @@
+.search-dropdown {
+    z-index: 99;
+    width: 100%;
+    top: 100%;
+}
+
+.form-group > .twitter-typeahead{
+    width: 100%;
+}
